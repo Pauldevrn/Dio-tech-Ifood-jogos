@@ -19,5 +19,5 @@
 O reset.css que está nesse repositório é o reset.css que eu usei para os projetos. Só tá aí para eu ter fácil acesso.
 
 <p align="center">
-  <img width:100px src="image-5.png" alt="logo do ifood potencia tech bootcamp">
+  <img width:100px src="./figuras/image-5.png" alt="logo do ifood potencia tech bootcamp">
 </p>
