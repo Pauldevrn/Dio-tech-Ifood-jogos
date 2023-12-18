@@ -1,7 +1,7 @@
 # Potência Tech iFood - Desenvolvimento de Jogos
 
 <h2 align="center">
-  <img src="./utils/logo-bootcamp.webp" width="250px">
+  <img src="./figuras/Dio_01.webp" width="250px">
 </h2>
 
 ## 💻 Sobre
